@@ -1,0 +1,31 @@
+.separator {
+    height: 20px;
+}
+.navbar {
+    background-color: white;
+    border-color: white;
+    padding-bottom: 0;
+    margin: 0;
+}
+.content {
+    background-image: url('imgs/jjj.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.jumbotron {
+    background: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: red;
+}
+.onHover{
+    width: inherit;
+    height: 2px;
+    margin-bottom:0 ;
+    padding-bottom: 0;
+}
+button.modal-body {
+    color: white;
+}
